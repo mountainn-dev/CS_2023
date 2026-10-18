@@ -1,1 +1,5 @@
 .DS_Store
+.vscode/
+*.dSYM/
+# C 실습 실행 파일 (확장자 없는 빌드 산출물)
+weekly/*/variable
